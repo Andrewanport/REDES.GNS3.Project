@@ -74,19 +74,19 @@ end
 
 
 - LAN 2:
-  - Lua
+- Lua
     ```bash
     set pcname LUA
     ip 10.0.0.2 255.255.255.0
     ip gateway 10.0.0.254
 
-  - Pedro
+- Pedro
     ```bash
     set pcname PEDRO
     ip 10.0.0.3 255.255.255.0
     ip gateway 10.0.0.254
 
-  - Felipe
+- Felipe
     ```bash
     set pcname FELIPE
     ip 10.0.0.4 255.255.255.0
