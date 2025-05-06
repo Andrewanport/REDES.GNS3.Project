@@ -53,7 +53,7 @@ ip routing
 end
 
 ### 🖥️ PC Configurations
-- **LAN 1**:
+- LAN 1:
   - Andre
     ```bash
     set pcname ANDRE
@@ -73,7 +73,7 @@ end
     ip gateway 192.168.0.254
 
 
-- **LAN 2**:
+- LAN 2:
   - Lua
     ```bash
     set pcname LUA
