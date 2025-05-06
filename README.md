@@ -37,7 +37,7 @@ This project was developed for the **Computer Networks** course with the objecti
 
 ### 📶 Router Configuration
 
-```bash
+bash
 enable
 configure terminal
 # Interface connected to LAN 1
@@ -53,7 +53,7 @@ ip routing
 end
 
 ### 🖥️ PC Configurations
-- LAN 1:
+  - LAN 1:
   - Andre
     ```bash
     set pcname ANDRE
